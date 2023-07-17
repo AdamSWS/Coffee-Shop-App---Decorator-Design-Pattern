@@ -1,0 +1,14 @@
+.button{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+}
+
+HBox{
+	-fx-background-color: bronwn;
+}
+
+BorderPane{
+	-fx-background-color: red;
+}
+
+
